@@ -3,7 +3,7 @@
     {
       "tensorName": "Mayo",
       "tensorShape": [
-        1000,
+        4912,
         50
       ],
       "tensorPath": "https://raw.githubusercontent.com/joaquinflores2/Mayo/main/Notebook_tensor.tsv",
