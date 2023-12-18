@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Mayo",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/joaquinflores2/Mayo/blob/main/Notebook_tensor.tsv",
+      "metadataPath": "https://github.com/joaquinflores2/Mayo/blob/main/Notebook_metadata.tsv"
+    }
+  ]
+}
