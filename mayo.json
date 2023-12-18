@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/joaquinflores2/Mayo/blob/main/Notebook_tensor.tsv",
-      "metadataPath": "https://github.com/joaquinflores2/Mayo/blob/main/Notebook_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/joaquinflores2/Mayo/main/Notebook_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/joaquinflores2/Mayo/main/Notebook_metadata.tsv"
     }
   ]
 }
